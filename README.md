@@ -7,4 +7,6 @@
  * CSS
  * Flexbox
  * Media Queries
-
+   
+ ### Desenvolvido por Gisele Gomes 
+ <https://www.linkedin.com/in/giselegomessantos/>

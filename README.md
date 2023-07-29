@@ -1,7 +1,7 @@
 # portifolio_2
-Portifolio com os cursos HTML e CSS da Alura.
+### Portifolio com os cursos HTML e CSS da Alura.
 
- ### Tecnicas Utilizadas:
+ #### Tecnicas Utilizadas:
 
  * HTML
  * CSS
